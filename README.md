@@ -48,3 +48,15 @@ Interactive Streamlit UI: Developed a user-friendly interface for data explorati
 - Show technical indicators like RSI, Bollinger Bands
 
 - Add company ticker dropdown input
+
+
+
+## AI Tools Used
+
+This project was built with assistance from the following AI tools:
+
+-  **ChatGPT (OpenAI)** – for code generation, debugging, and explanation  
+-  **NotebookLM (Google)** – for analyzing datasets and documents  
+-  **Napkin.io** – for visualizing 
+
+These tools helped accelerate development, automate documentation, and refine model logic.
